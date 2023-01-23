@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
 [![NPM downloads][npm-coreui-download]][npm-coreui]  
@@ -193,3 +194,6 @@ copyright 2022 creativeLabs Łukasz Holeczek.
 Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/master/LICENSE).
 There is only one limitation you can't can’t re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI. In past we faced some problems with persons who tried to sell CoreUI based templates.
 
+=======
+# Ecomerce-AdminPanel
+>>>>>>> 184c926ee397a6e9b1ca869124db0650ce527fb4
